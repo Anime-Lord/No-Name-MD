@@ -40,7 +40,7 @@ For Advanced Users, make sure you have the following:
 
 1. Clone Your Forked Repository:
     ```sh
-    git clone https://github.com/astro/asta-md.git
+    git clone https://github.com/astro/No Name MD.git
     cd asta-md
     ```
 
