@@ -40,8 +40,8 @@ For Advanced Users, make sure you have the following:
 
 1. Clone Your Forked Repository:
     ```sh
-    git clone https://github.com/astro/No Name MD.git
-    cd asta-md
+    git clone https://github.com/Anime-Lord/No Name MD.git
+    cd No Name MD
     ```
 
 2. Install dependencies:
